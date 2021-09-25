@@ -1,0 +1,1 @@
+Internally, the function accesses the input sequence by first constructing a sentry object (with noskipws set to true). Then (if good), it calls either pubseekpos (1) or pubseekoff (2) on its associated stream buffer object (if any). Finally, it destroys the sentry object before returning.รรรรรรวีรวีรวีรวี

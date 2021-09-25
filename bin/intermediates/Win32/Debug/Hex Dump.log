@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Root\source\repos\Hex Dump\Hex Dump\src\Main.cpp(38,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Hex Dump.vcxproj -> C:\Users\Root\source\repos\Hex Dump\bin\Win32\Debug\Hex Dump.exe
