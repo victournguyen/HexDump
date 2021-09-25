@@ -2,10 +2,7 @@
 #include <fstream>
 #include <stdio.h>
 #include <string>
-//dab
-////
-//nice
-//nice
+
 using namespace std;
 
 int main() {
